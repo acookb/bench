@@ -1,0 +1,24 @@
+{
+    "molecules": [
+        {
+            "atomType": "Molecule",
+            "name": "bench",
+            "x": 0,
+            "y": 0,
+            "uniqueID": 499728,
+            "ioValues": [],
+            "topLevel": true,
+            "allAtoms": [
+                {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 1230,
+                    "y": 220,
+                    "ioValues": []
+                }
+            ],
+            "allConnectors": [],
+            "fileTypeVersion": 1
+        }
+    ]
+}
